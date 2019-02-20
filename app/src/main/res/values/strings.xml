@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LastProjectD19</string>
+    <string name="welcome_it_s_a_big_dog">Welcome : it\'s a big dog</string>
+    <string name="welcome" />
+</resources>
